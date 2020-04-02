@@ -4,12 +4,13 @@ import AsideLeft from './components/AsideLeft';
 import TopMenu from './components/TopMenu';
 
 
+
 function App() {
   return (
     <div className="bgimg">
-    <TopMenu />
-    <AsideLeft />
-      <Home />
+      <Home/>
+        <TopMenu />
+      <AsideLeft />
     </div>
   );
 }

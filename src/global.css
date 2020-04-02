@@ -39,6 +39,10 @@ h1, h2, h3, h4, h5, p {
   font-family: 'Fira Code', monospace;
 }
 
+h2 {
+  font-weight: 300;
+}
+
 .asideass{
   position: absolute;
   top: 40%;
